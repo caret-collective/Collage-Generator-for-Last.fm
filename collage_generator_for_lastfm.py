@@ -87,7 +87,7 @@ def ParseInputOptions():
 
 	# Use this username as an example
 	if args.user == 'example':
-		args.user = 'twocaretcat'
+		args.user = 'jerboa88'
 
 	# Check width and height
 	dim = [args.width, args.height]
