@@ -1,4 +1,5 @@
-images/
 apikey.txt
-/*.png
+images/
+__pycache__/
 /*.jpg
+/*.png
